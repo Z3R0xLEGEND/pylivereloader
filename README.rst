@@ -1,6 +1,6 @@
 pylivereload
 ============
-
+<img align = "right" alt = "pylivereload logo" src = "./pictures/logo-full.png">
 pylivereload is a lightweight script reloader.
 It's designed to maintain a running script at it's live version.
 For example if you're coding the script to maintain live with LiveReloader the script you're coding will always run at it's latest version based on his last modification time
