@@ -10,14 +10,13 @@ Installing
 
 Install and update using `pip`_:
 
-.. code-block:: python
+```python
 
   pip install -U pylivereload
-
+```
 A simple example
 ----------------
-
-.. code-block:: python
+```python
 
   from pylivereload import LiveReloader
 
@@ -29,7 +28,7 @@ A simple example
     myscript.function()
 
   maintainer.keep_live(do)
-
+```
 Links
 -----
 
