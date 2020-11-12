@@ -12,7 +12,7 @@ Install and update using [pip](https://pip.pypa.io/en/stable/quickstart/):
 
 ```python
 
-  pip install -U pylivereload
+  pip install -U pylivereloader
 ```
 A simple example
 ----------------
