@@ -8,7 +8,7 @@ For example if you're coding the script to maintain live with LiveReloader the s
 Installing
 ----------
 
-Install and update using [!pip](https://pip.pypa.io/en/stable/quickstart/):
+Install and update using [pip](https://pip.pypa.io/en/stable/quickstart/):
 
 ```python
 
