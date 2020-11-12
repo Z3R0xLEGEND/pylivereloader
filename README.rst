@@ -1,0 +1,39 @@
+pylivereload
+============
+
+pylivereload is a lightweight script reloader.
+It's designed to maintain a running script at it's live version.
+For example if you're coding the script to maintain live with LiveReloader the script you're coding will always run at it's latest version based on his last modification time
+
+Installing
+----------
+
+Install and update using `pip`_:
+
+.. code-block:: python
+
+  pip install -U pylivereload
+
+A simple example
+----------------
+
+.. code-block:: python
+
+  from pylivereload import LiveReloader
+
+  maintainer = LiveReloader("myscript",
+                              safe_reload = True,
+                              logging = True)
+
+  def do () :
+    myscript.function()
+
+  maintainer.keep_live(do)
+
+Links
+-----
+
+* Official chat: https://discord.gg/VeeZnVY
+* Releases:
+
+.. _pip: https://pip.pypa.io/en/stable/quickstart/
