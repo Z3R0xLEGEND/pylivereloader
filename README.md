@@ -18,7 +18,7 @@ A simple example
 ----------------
 ```python
 
-  from pylivereload import LiveReloader
+  from pylivereloader import LiveReloader
 
   maintainer = LiveReloader("myscript",
                               safe_reload = True,
