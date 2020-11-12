@@ -12,7 +12,7 @@ setup(
     author = "Z3R0xLEGEND", #Author name
     author_email = "legend.z3r00.pro@gmail.com", #Mail contact
     description = "Script live reloader for production environment", #Package description
-    #long_description = open('README.md').read(), #File description
+    long_description = open('README.md').read(), #File description
     url = "http://github.com/Z3R0xLEGEND/pylivereloader", #Official support page
     classifiers=[
         "Programming Language :: Python :: 3.9",
