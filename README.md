@@ -33,4 +33,4 @@ Links
 -----
 
 * Official chat: https://discord.gg/VeeZnVY
-* Releases:
+* Releases: https://pypi.org/project/pylivereloader/
